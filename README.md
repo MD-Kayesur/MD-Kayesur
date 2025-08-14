@@ -1,7 +1,9 @@
+ 
 
 
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-
+```javascript
 const anmol = {
     pronouns: "He" | "Him",
     code: ["TypeScript", "Javascript", "Python", "Dart"],
@@ -36,9 +38,7 @@ const anmol = {
     currentFocus: "Leading a way in generative AI innovation",
     funFact: "I can debug faster with a coffee in hand!"
 };
-
-
-
+```
 
 
 
