@@ -1,7 +1,7 @@
  
  <div align="center">
 <!--   <img width="140" src="https://i.ibb.co.com/pBff4dHq/1749660883197-removebg-preview.png"  alt="Md_Kayesur"/> -->
-  <img width="140" src="https://i.ibb.co.com/TGmTLRZ/portfolio-img.png"  alt="Md_Kayesur"/>
+  <img width="140" src="https://i.ibb.co.com/xKBMMPfm/portfolio-img.png"  alt="Md_Kayesur"/>
   <h2 align="center">GitHub Profile Trophy</h2>
   <p align="center">🏆 Add dynamically generated GitHub Stat Trophies on your README</p>
 </div>
