@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1>MD Kayesur</h1>
-<h3>Senior Full Stack Engineer (MERN) | Scalable Systems | Clean Architecture</h3>
+<h3>Juniour Full Stack Engineer (MERN) | Scalable Systems | Clean Architecture</h3>
 
 <p>
 Building high-performance, scalable web applications with modern technologies.  
