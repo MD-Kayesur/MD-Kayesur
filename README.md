@@ -14,7 +14,7 @@ Focused on delivering clean, maintainable code and solving real-world business p
 
 ## 👨‍💼 Professional Summary
 
-Senior Full Stack Developer with strong expertise in the **MERN stack**, specializing in building scalable, production-ready applications.
+Juniour Full Stack  Developer with strong expertise in the **MERN stack**, specializing in building scalable, production-ready applications.
 
 ✔️ Experience designing **robust backend architectures**
 ✔️ Skilled in **API design, performance optimization & system scalability**
@@ -26,7 +26,7 @@ Senior Full Stack Developer with strong expertise in the **MERN stack**, special
 ## 🧠 Core Expertise
 
 * **Frontend:** React.js, Redux, TypeScript, Advanced UI Architecture
-* **Backend:** Node.js, Express.js, NestJS, REST & GraphQL APIs
+* **Backend:** Node.js, Express.js, REST & GraphQL APIs
 * **Database:** MongoDB (Schema Design, Optimization)
 * **DevOps:** Docker, CI/CD (GitHub Actions), Cloud Deployment
 * **Architecture:** Scalable Systems, Modular Design, API Security
