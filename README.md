@@ -17,8 +17,11 @@ Focused on delivering clean, maintainable code and solving real-world business p
 Juniour Full Stack  Developer with strong expertise in the **MERN stack**, specializing in building scalable, production-ready applications.
 
 ✔️ Experience designing **robust backend architectures**
+
 ✔️ Skilled in **API design, performance optimization & system scalability**
+
 ✔️ Strong focus on **clean code, maintainability, and best practices**
+
 ✔️ Comfortable working across **frontend, backend, and DevOps**
 
 ---
