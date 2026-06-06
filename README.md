@@ -86,7 +86,7 @@
     <br/>
     <br/>
     <a href="#">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00B8D9&center=true&vCenter=true&width=700&lines=Assalamu+Alaikum,+This+is+Kayesur;Full+Stack+Engineer+(MERN);Clean+Architecture+Enthusiast;Building+Scalable+Systems;" alt="Typing Animation" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00B8D9&center=true&vCenter=true&width=700&lines=Assalamu+Alaikum,+This+is+Kayesur;Full+Stack+Engineer;Clean+Architecture+Enthusiast;Building+Scalable+Systems;" alt="Typing Animation" />
     </a>
   </p>
 
@@ -97,7 +97,7 @@
   </p>
 
   <p align="center" style="font-size: 18px;">
-    Full Stack Developer (MERN) with strong expertise in building scalable, production-ready web applications. Specialized in backend architecture, REST & GraphQL APIs, and database optimization.
+    Full Stack Engineer with strong expertise in building scalable, production-ready web applications. Specialized in backend architecture, REST & GraphQL APIs, and database optimization.
   </p>
 
   <h2 align="center"> 
@@ -105,7 +105,7 @@
   </h2>
 
   <p align="center">
-    <a href="https://github.com/MD-Kayesur" target="_blank">
+    <a href="https://md-kayesur.web.app/" target="_blank">
       <img src="https://img.shields.io/badge/View%20My%20Portfolio-%230AA5FF.svg?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
     </a>
   </p>
@@ -119,7 +119,7 @@
   </h2>
 
   ```yaml
-  Current Role: Full Stack Developer (MERN) | Bangladesh
+  Current Role: Full Stack Engineer | Bangladesh
   Experience: 2+ Years in Full Stack Development
   Specialization: React.js, Next.js, Node.js, NestJS, MongoDB, PostgreSQL
   Education: BSc in Computer Science and Engineering (CSE)
