@@ -23,6 +23,18 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: dist/snake.svg?palette=github-dark&color_background=#0f1623
+      - name: Crop and remove progress bar legend
+        run: |
+          python -c "
+          import re
+          with open('dist/snake.svg', 'r') as f:
+              content = f.read()
+          content = re.sub(r'<rect class=\"u[^>]*/>', '', content)
+          content = content.replace('viewBox=\"-16 -32 880 192\"', 'viewBox=\"-16 -32 880 150\"')
+          content = content.replace('height=\"192\"', 'height=\"150\"')
+          with open('dist/snake.svg', 'w') as f:
+              f.write(content)
+          "
       - name: push snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
