@@ -23,6 +23,12 @@
 
 <br/>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/MD-Kayesur/MD-Kayesur/output/snake.svg" alt="Snake Animation"/>
+</div>
+
+<br/>
+
 ---
 
 ## 👨‍💼 Professional Summary
