@@ -364,6 +364,6 @@
 
   <!-- 12. Profile text -->
   <text x="425" y="26" text-anchor="middle" fill="#f1f5f9" font-size="20" font-weight="bold" font-family="sans-serif">MD Kayesur</text>
-  <text x="425" y="44" text-anchor="middle" fill="#94a3b8" font-size="12" font-family="sans-serif">Full Stack Engineer (MERN) | Scalable Systems | Clean Architecture</text>
+  <text x="425" y="44" text-anchor="middle" fill="#94a3b8" font-size="12" font-family="sans-serif">Full Stack Engineer  | Scalable Systems | Clean Architecture</text>
   <text x="425" y="268" text-anchor="middle" fill="#64748b" font-size="11" font-family="monospace" font-style="italic">&quot;Great software is built with clarity, scalability, and purpose — not just code.&quot;</text>
 </svg>
