@@ -5,21 +5,6 @@
 
 <br/>
 
-<!-- Typing SVG Animation -->
-<p align="center">
-  <a href="#">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00B8D9&center=true&vCenter=true&width=700&lines=Assalamu+Alaikum,+This+is+Kayesur;Full+Stack+Engineer+(MERN);Clean+Architecture+Enthusiast;Building+Scalable+Systems;" alt="Typing Animation" />
-  </a>
-</p>
-
-<!-- Visitor Views & Follower Count Badges -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MD-Kayesur&label=Profile+Views&color=8A2BE2&style=flat" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/MD-Kayesur?label=Followers&style=social&color=8A2BE2" alt="GitHub Followers"/>
-</p>
-
-<br/>
-
 <div align="center">
   <img src="./assets/generated/stats-card.svg" width="850" alt="Mission Telemetry"/>
 </div>
@@ -79,6 +64,8 @@
   <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 </div>
 
+<br/>
+
 <details>
   <summary>
     <table align="center">
@@ -92,60 +79,73 @@
 
   <br/>
 
-  ---
+  <!-- Header with animated gradient and 3D effect -->
+  <p align="center">
+    <!-- Rainbow divider -->
+    <a href="#"><img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%"></a>
+    <br/>
+    <br/>
+    <a href="#">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00B8D9&center=true&vCenter=true&width=700&lines=Assalamu+Alaikum,+This+is+Kayesur;Full+Stack+Engineer+(MERN);Clean+Architecture+Enthusiast;Building+Scalable+Systems;" alt="Typing Animation" />
+    </a>
+  </p>
 
-  ## 👨‍💼 Professional Summary
+  <!-- Visitor counter with snake animation -->
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=MD-Kayesur&label=Profile+Views&color=8A2BE2&style=flat" alt="Profile Views"/>
+    <img src="https://img.shields.io/github/followers/MD-Kayesur?label=Followers&style=social&color=8A2BE2" alt="GitHub Followers"/>
+  </p>
 
-  Junior Full Stack Developer with strong expertise in the **MERN stack**, specializing in building scalable, production-ready applications.
+  <p align="center" style="font-size: 18px;">
+    Full Stack Developer (MERN) with strong expertise in building scalable, production-ready web applications. Specialized in backend architecture, REST & GraphQL APIs, and database optimization.
+  </p>
 
-  ✔️ Experience designing **robust backend architectures**  
-  ✔️ Skilled in **API design, performance optimization & system scalability**  
-  ✔️ Strong focus on **clean code, maintainability, and best practices**  
-  ✔️ Comfortable working across **frontend, backend, and DevOps**  
+  <h2 align="center"> 
+    Portfolio
+  </h2>
 
-  ---
+  <p align="center">
+    <a href="https://github.com/MD-Kayesur" target="_blank">
+      <img src="https://img.shields.io/badge/View%20My%20Portfolio-%230AA5FF.svg?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
+    </a>
+  </p>
 
-  ## 🧠 Core Expertise
+  <p align="center">
+    Explore my portfolio of scalable web applications, clean architectures, and modern solutions.
+  </p>
 
-  * **Frontend:** React.js, Redux, TypeScript, Next.js, Advanced UI Architecture
-  * **Backend:** Node.js, Express.js, NestJS, REST & GraphQL APIs
-  * **Database:** MongoDB (Schema Design, Optimization), PostgreSQL
-  * **DevOps:** Docker, CI/CD (GitHub Actions), Cloud Deployment
-  * **Architecture:** Scalable Systems, Modular Design, API Security
-  * **Tools:** Git, Webpack, Vite, Postman, Insomnia
+  <h2 align="center"> 
+    About Me
+  </h2>
 
-  ---
+  ```yaml
+  Current Role: Full Stack Developer (MERN) | Bangladesh
+  Experience: 2+ Years in Full Stack Development
+  Specialization: React.js, Next.js, Node.js, NestJS, MongoDB, PostgreSQL
+  Education: BSc in Computer Science and Engineering (CSE)
+  Philosophy: Great software is built with clarity, scalability, and purpose
+  ```
 
-  ## 🏗️ Architecture Mindset
+  <h2 align="center"> 
+    Core Technologies
+  </h2>
 
-  I don't just write code — I design systems.
-  * Clean separation of concerns
-  * Scalable folder & module structure
-  * Reusable components and services
-  * API-first development approach
-  * Performance and security focused
+  <p align="center">
+    <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
+    <img src="https://img.shields.io/badge/Redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
+    <img src="https://img.shields.io/badge/TypeScript-%23007acc.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+    <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+    <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+    <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express"/>
+    <img src="https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS"/>
+    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+    <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+    <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+    <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  </p>
 
-  <!-- Glowing Line Divider -->
-  <br/>
   <a href="#">
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   </a>
-  <br/>
-
-  ---
-
-  ## 🤝 Let's Connect
-
-  <div align="center">
-    <a href="https://github.com/MD-Kayesur">
-      <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
-    </a>
-  </div>
-
-  ---
-
-  ## 💬 Philosophy
-
-  > "Great software is built with clarity, scalability, and purpose — not just code."
 
 </details>
