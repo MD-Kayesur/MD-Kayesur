@@ -5,6 +5,21 @@
 
 <br/>
 
+<!-- Typing SVG Animation -->
+<p align="center">
+  <a href="#">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00B8D9&center=true&vCenter=true&width=700&lines=Assalamu+Alaikum,+This+is+Kayesur;Full+Stack+Engineer+(MERN);Clean+Architecture+Enthusiast;Building+Scalable+Systems;" alt="Typing Animation" />
+  </a>
+</p>
+
+<!-- Visitor Views & Follower Count Badges -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MD-Kayesur&label=Profile+Views&color=8A2BE2&style=flat" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/MD-Kayesur?label=Followers&style=social&color=8A2BE2" alt="GitHub Followers"/>
+</p>
+
+<br/>
+
 <div align="center">
   <img src="./assets/generated/stats-card.svg" width="850" alt="Mission Telemetry"/>
 </div>
@@ -23,11 +38,46 @@
 
 <br/>
 
+<!-- GitHub Streak Stats -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MD-Kayesur/MD-Kayesur/output/snake.svg" alt="Snake Animation"/>
+  <a href="#">
+     <img src="https://streak-stats.demolab.com?user=MD-Kayesur&theme=github-dark-dimmed&border_radius=12&card_width=850&card_height=220&background=0f1623&border=202F42&sideNums=EBEBEB&currStreakNum=EBEBEB&fire=00DEEB" alt="GitHub Streak" />
+  </a>
 </div>
 
 <br/>
+
+<!-- GitHub Activity Graph -->
+<div align="center">
+  <a href="#">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=MD-Kayesur&theme=tokyo-night&hide_border=false&title=MD-Kayesur%20Activity%20Graph&bg_color=0f1623&border_color=202F42&radius=15&title_color=ffffff&area=true&area_color=0297b7&color=64748b&days=31"/>
+  </a>
+</div>
+
+<br/>
+
+<!-- Snake Contribution Animation -->
+<h2 align="center"> 
+  Contribution Grid
+</h2>
+
+<table align="center">
+  <tr>
+    <td>
+       <picture>
+         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MD-Kayesur/MD-Kayesur/output/snake.svg">
+         <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MD-Kayesur/MD-Kayesur/output/snake.svg">
+       </picture>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- Rainbow Divider -->
+<div align="center">
+  <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+</div>
 
 ---
 
@@ -61,6 +111,13 @@ I don't just write code — I design systems.
 * Reusable components and services
 * API-first development approach
 * Performance and security focused
+
+<!-- Glowing Line Divider -->
+<br/>
+<a href="#">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</a>
+<br/>
 
 ---
 
