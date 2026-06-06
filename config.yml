@@ -72,9 +72,31 @@ stats:
 
 # Language display settings
 languages:
-  exclude:                     # Languages to hide from the telemetry chart
+  exclude:                     # Languages to hide from the telemetry chart (fallback if custom_skills not used)
     - "HTML"
     - "CSS"
     - "Shell"
     - "Makefile"
-  max_display: 8               # Maximum number of languages to show
+  max_display: 8               # Maximum number of languages to show (fallback if custom_skills not used)
+  custom_skills:
+    - name: "TypeScript"
+      percentage: 85.0
+      color: "#3178c6"
+    - name: "JavaScript"
+      percentage: 75.0
+      color: "#f1e05a"
+    - name: "Node.js"
+      percentage: 80.0
+      color: "#6DA55F"
+    - name: "Express.js"
+      percentage: 75.0
+      color: "#00d4ff"
+    - name: "NestJS"
+      percentage: 70.0
+      color: "#E0234E"
+    - name: "MongoDB"
+      percentage: 65.0
+      color: "#4ea94b"
+    - name: "Docker"
+      percentage: 50.0
+      color: "#0db7ed"

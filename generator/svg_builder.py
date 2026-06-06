@@ -42,6 +42,7 @@ class SVGBuilder:
             theme=self.theme,
             exclude=lang_config.get("exclude", []),
             max_display=lang_config.get("max_display", 8),
+            custom_skills=lang_config.get("custom_skills"),
         )
 
     def render_projects_constellation(self) -> str:

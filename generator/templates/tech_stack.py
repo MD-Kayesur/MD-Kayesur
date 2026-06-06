@@ -2,7 +2,7 @@
 
 import math
 
-from generator.utils import calculate_language_percentages, esc, svg_arc_path, resolve_arm_colors
+from generator.utils import calculate_language_percentages, esc, svg_arc_path, resolve_arm_colors, get_language_color
 
 WIDTH = 850
 
@@ -230,6 +230,7 @@ def render(
     theme: dict,
     exclude: list,
     max_display: int,
+    custom_skills: list = None,
 ) -> str:
     """Render the tech stack SVG.
 
@@ -239,8 +240,19 @@ def render(
         theme: color palette dict
         exclude: languages to exclude
         max_display: max languages to show
+        custom_skills: list of custom skill dicts with name, percentage, color
     """
-    lang_data = calculate_language_percentages(languages, exclude, max_display)
+    if custom_skills:
+        lang_data = []
+        for skill in custom_skills:
+            name = skill["name"]
+            lang_data.append({
+                "name": name,
+                "percentage": float(skill["percentage"]),
+                "color": skill.get("color") or get_language_color(name),
+            })
+    else:
+        lang_data = calculate_language_percentages(languages, exclude, max_display)
 
     # Left side: Language bars
     left_x = 30
