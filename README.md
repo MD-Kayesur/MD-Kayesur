@@ -121,8 +121,8 @@
   ```yaml
   Current Role: Full Stack Engineer | Bangladesh
   Experience: 2+ Years in Full Stack Development
-  Specialization: React.js, Next.js, Node.js, NestJS, MongoDB, PostgreSQL
-  Education: BSc in Computer Science and Engineering (CSE)
+  Specialization: Javascript,Typescript, React.js, Next.js, Node.js, NestJS, MongoDB, PostgreSQL
+  Education: Shyamnagar Government Mohsin Degree College
   Philosophy: Great software is built with clarity, scalability, and purpose
   ```
 
