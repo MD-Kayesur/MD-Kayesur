@@ -79,58 +79,73 @@
   <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 </div>
 
----
+<details>
+  <summary>
+    <table align="center">
+      <tr>
+        <td>
+            <strong>👇 Click to Expand My Profile 👇</strong>
+        </td>
+      </tr>
+    </table>
+  </summary>   
 
-## 👨‍💼 Professional Summary
+  <br/>
 
-Junior Full Stack Developer with strong expertise in the **MERN stack**, specializing in building scalable, production-ready applications.
+  ---
 
-✔️ Experience designing **robust backend architectures**  
-✔️ Skilled in **API design, performance optimization & system scalability**  
-✔️ Strong focus on **clean code, maintainability, and best practices**  
-✔️ Comfortable working across **frontend, backend, and DevOps**  
+  ## 👨‍💼 Professional Summary
 
----
+  Junior Full Stack Developer with strong expertise in the **MERN stack**, specializing in building scalable, production-ready applications.
 
-## 🧠 Core Expertise
+  ✔️ Experience designing **robust backend architectures**  
+  ✔️ Skilled in **API design, performance optimization & system scalability**  
+  ✔️ Strong focus on **clean code, maintainability, and best practices**  
+  ✔️ Comfortable working across **frontend, backend, and DevOps**  
 
-* **Frontend:** React.js, Redux, TypeScript, Next.js, Advanced UI Architecture
-* **Backend:** Node.js, Express.js, NestJS, REST & GraphQL APIs
-* **Database:** MongoDB (Schema Design, Optimization), PostgreSQL
-* **DevOps:** Docker, CI/CD (GitHub Actions), Cloud Deployment
-* **Architecture:** Scalable Systems, Modular Design, API Security
-* **Tools:** Git, Webpack, Vite, Postman, Insomnia
+  ---
 
----
+  ## 🧠 Core Expertise
 
-## 🏗️ Architecture Mindset
+  * **Frontend:** React.js, Redux, TypeScript, Next.js, Advanced UI Architecture
+  * **Backend:** Node.js, Express.js, NestJS, REST & GraphQL APIs
+  * **Database:** MongoDB (Schema Design, Optimization), PostgreSQL
+  * **DevOps:** Docker, CI/CD (GitHub Actions), Cloud Deployment
+  * **Architecture:** Scalable Systems, Modular Design, API Security
+  * **Tools:** Git, Webpack, Vite, Postman, Insomnia
 
-I don't just write code — I design systems.
-* Clean separation of concerns
-* Scalable folder & module structure
-* Reusable components and services
-* API-first development approach
-* Performance and security focused
+  ---
 
-<!-- Glowing Line Divider -->
-<br/>
-<a href="#">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</a>
-<br/>
+  ## 🏗️ Architecture Mindset
 
----
+  I don't just write code — I design systems.
+  * Clean separation of concerns
+  * Scalable folder & module structure
+  * Reusable components and services
+  * API-first development approach
+  * Performance and security focused
 
-## 🤝 Let's Connect
-
-<div align="center">
-  <a href="https://github.com/MD-Kayesur">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
+  <!-- Glowing Line Divider -->
+  <br/>
+  <a href="#">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   </a>
-</div>
+  <br/>
 
----
+  ---
 
-## 💬 Philosophy
+  ## 🤝 Let's Connect
 
-> "Great software is built with clarity, scalability, and purpose — not just code."
+  <div align="center">
+    <a href="https://github.com/MD-Kayesur">
+      <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
+    </a>
+  </div>
+
+  ---
+
+  ## 💬 Philosophy
+
+  > "Great software is built with clarity, scalability, and purpose — not just code."
+
+</details>
